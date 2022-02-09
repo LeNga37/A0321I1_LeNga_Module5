@@ -6,7 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./likes.component.css']
 })
 export class LikesComponent implements OnInit {
-
+  likes: number = 0;
+  likeThis() {
+    this.likes++;
+  }
   constructor() { }
 
   ngOnInit(): void {

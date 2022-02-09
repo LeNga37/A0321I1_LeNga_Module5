@@ -1,6 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="081528ee-3ea3-4ecc-865d-fd8f563d44e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/bai_tap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/.idea/thuc_hanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/font-size-editor/font-size-editor.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/font-size-editor/font-size-editor.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/font-size-editor/font-size-editor.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/font-size-editor/font-size-editor.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-bootstrap/install-bootstrap.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-bootstrap/install-bootstrap.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-bootstrap/install-bootstrap.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-bootstrap/install-bootstrap.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/pet/pet.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/pet/pet.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/pet/pet.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/pet/pet.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/component_template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/hackernews-practice/hackernews-practice.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/hackernews-practice/hackernews-practice.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/hackernews-practice/hackernews-practice.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/hackernews-practice/hackernews-practice.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/hackernews-practice/likes/likes.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/hackernews-practice/likes/likes.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/hackernews-practice/likes/likes.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/hackernews-practice/likes/likes.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/navbar/navbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/navbar/navbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/navbar/navbar.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/app/navbar/navbar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackernews/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case_study/furama/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../case_study/furama/home_page.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="24bRGMlVDFu4PFG3gr1ceQUDQDh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="ts.external.directory.path" value="D:\A0321I1_LeNga_Module5\bai_4_angular_component_template\component_template\hackernews\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="081528ee-3ea3-4ecc-865d-fd8f563d44e4" name="Default Changelist" comment="" />
+      <created>1643897202555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643897202555</updated>
+      <workItem from="1643897203840" duration="9562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1644066610062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1644066610062" />
+    <state x="646" y="156" key="FileChooserDialogImpl" timestamp="1644245738604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="646" y="156" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1644245738604" />
   </component>
 </project>
