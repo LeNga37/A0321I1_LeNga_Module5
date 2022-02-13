@@ -1,9 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daabb119-c33f-4b41-989c-c10fb9a5c538" name="Default Changelist" comment="bai 2">
+      <change afterPath="$PROJECT_DIR$/typescript-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-demo/.idea/typescript-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-demo/src/array.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-demo/src/array.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-demo/src/control-flow.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-demo/src/control-flow.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-demo/src/functions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-demo/src/functions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-demo/src/fundamentals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-demo/src/fundamentals.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-demo/src/object.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-demo/src/object.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript-demo/src/promise.ts" beforeDir="false" afterPath="$PROJECT_DIR$/typescript-demo/src/promise.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/calculator/calculator.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/angular-overview/src/app/color-picker/color-picker.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/font-size-editor/font-size-editor.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/font-size-editor/font-size-editor.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/font-size-editor/font-size-editor.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/font-size-editor/font-size-editor.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-boostrap/install-bootstrap.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-boostrap/install-bootstrap.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-boostrap/install-bootstrap.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-boostrap/install-bootstrap.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-bootstrap/install-bootstrap.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/install-bootstrap/install-bootstrap.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/pet/pet.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/pet/pet.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/pet/pet.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/app/pet/pet.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-alias/countdown-timer-alias.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-alias/countdown-timer-alias.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-alias/countdown-timer-alias.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-alias/countdown-timer-alias.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-alias/countdown-timer-alias.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-alias/countdown-timer-alias.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-event-alias/countdown-timer-event-alias.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-event-alias/countdown-timer-event-alias.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-event-alias/countdown-timer-event-alias.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-event-alias/countdown-timer-event-alias.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-event-alias/countdown-timer-event-alias.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-event-alias/countdown-timer-event-alias.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-get-set/countdown-timer-get-set.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-get-set/countdown-timer-get-set.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-get-set/countdown-timer-get-set.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-get-set/countdown-timer-get-set.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-get-set/countdown-timer-get-set.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer-get-set/countdown-timer-get-set.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer/countdown-timer.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer/countdown-timer.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer/countdown-timer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer/countdown-timer.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer/countdown-timer.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap/angular-component-template/src/app/countdown-timer/countdown-timer.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/name-card/name-card.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/name-card/name-card.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/name-card/name-card.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/name-card/name-card.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/name-card/name-card.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/name-card/name-card.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/progress-bar/progress-bar.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/progress-bar/progress-bar.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/progress-bar/progress-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/progress-bar/progress-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/progress-bar/progress-bar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/thuc_hanh/components_interaction/src/app/progress-bar/progress-bar.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../case_study/furama/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../case_study/furama/home_page.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/typescript-demo" />
   </component>
   <component name="ProjectId" id="252Pwow926X9YZvAuxsxEcgxvtJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -15,5 +93,43 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="ts.external.directory.path" value="D:\A0321I1_LeNga_Module5\bai_2_typescrip\thuc_hanh\typescript-demo\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daabb119-c33f-4b41-989c-c10fb9a5c538" name="Default Changelist" comment="" />
+      <created>1644722448715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644722448715</updated>
+      <workItem from="1644722449974" duration="588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/typescript-demo/src/index.js" />
+        <option value="$PROJECT_DIR$/typescript-demo/src/array.js" />
+        <option value="$PROJECT_DIR$/typescript-demo/src/promise.js" />
+        <option value="$PROJECT_DIR$/typescript-demo/src/object.js" />
+        <option value="$PROJECT_DIR$/typescript-demo/src/fundamentals.js" />
+        <option value="$PROJECT_DIR$/typescript-demo/src/control-flow.js" />
+        <option value="$PROJECT_DIR$/typescript-demo/src/functions.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bai 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="bai 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1644722863732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1644722863732" />
   </component>
 </project>
