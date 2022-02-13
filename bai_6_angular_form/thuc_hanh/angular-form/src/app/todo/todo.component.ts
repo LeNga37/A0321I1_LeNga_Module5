@@ -36,7 +36,7 @@ export class TodoComponent implements OnInit {
     }
   }
 
-  toggleTodo(i:any) {
+  toggleTodo(i:number) {
     this.todos[i].complete = !this.todos[i].complete;
   }
 }
