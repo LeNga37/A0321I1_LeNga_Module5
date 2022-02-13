@@ -1,20 +1,19 @@
-import {Component, EventEmitter, Input, OnChanges, OnDestroy, OnInit, Output, SimpleChanges} from '@angular/core';
+import {Component, Input, OnChanges, OnDestroy, OnInit, SimpleChanges} from '@angular/core';
 
 @Component({
-  selector: 'app-countdown-timer-event-alias',
-  templateUrl: './countdown-timer-event-alias.component.html',
-  styleUrls: ['./countdown-timer-event-alias.component.css']
+  selector: 'app-countdown-timer-onchanges',
+  templateUrl: './countdown-timer-onchanges.component.html',
+  styleUrls: ['./countdown-timer-onchanges.component.css']
 })
-export class CountdownTimerEventAliasComponent implements OnInit, OnChanges, OnDestroy {
+export class CountdownTimerOnchangesComponent
+  implements OnChanges, OnInit, OnDestroy {
+
   private intervalId = 0;
   message = '';
   remainingTime: number | undefined;
 
   @Input()
   seconds = 11;
-
-  @Output('timerEnd')
-  finish = new EventEmitter<boolean>();
 
   ngOnChanges(changes: SimpleChanges) {
     if ('seconds' in changes) {
@@ -62,7 +61,6 @@ export class CountdownTimerEventAliasComponent implements OnInit, OnChanges, OnD
       if (this.remainingTime === 0) {
         this.message = 'Blast off!';
         this.clearTimer();
-        this.finish.emit(true);
       } else {
         this.message = `T-${this.remainingTime} seconds and counting`;
       }
