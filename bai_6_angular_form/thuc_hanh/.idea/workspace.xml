@@ -2,6 +2,282 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abddbd4e-0d92-4014-b5f0-dc2729697db5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai_tap/.idea/bai_tap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/register/register.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/register/register.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/app/register/register.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/bootstrap413/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/assets/jquery/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_tap/form-register/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/.idea/bai_tap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary-detail/dictionary-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary-detail/dictionary-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary-detail/dictionary-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary-detail/dictionary-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary-page/dictionary-page.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary-page/dictionary-page.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary-page/dictionary-page.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary-page/dictionary-page.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/app/dictionary.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/bai_tap/dictionary/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/.idea/thuc_hanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/date-util.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/date-util.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/timelines/timelines.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/timelines/timelines.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/timelines/timelines.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/timelines/timelines.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube-player/youtube-player.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube-player/youtube-player.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube-player/youtube-player.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube-player/youtube-player.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube-playlist/youtube-playlist.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube-playlist/youtube-playlist.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube-playlist/youtube-playlist.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube-playlist/youtube-playlist.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/app/youtube.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/.idea/thuc_hanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog-detail/blog-detail.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog-detail/blog-detail.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog-detail/blog-detail.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog-detail/blog-detail.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog-edit/blog-edit.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog-edit/blog-edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog-edit/blog-edit.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog-edit/blog-edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog/blog.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog/blog.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog/blog.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/blog/blog.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/post.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/post.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/app/post.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bai_9_connect_backend/thuc_hanh/blog/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/components/customers/customer-list/customer-list.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/components/customers/customer-list/customer-list.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/components/customers/customer-list/customer-list.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/components/customers/customer-list/customer-list.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/components/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/components/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/components/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/app/components/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/bootstrap413/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/assets/jquery/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../case_study/furama-resort/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bai_2_typescrip/thuc_hanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_2_typescrip/thuc_hanh/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bai_2_typescrip/thuc_hanh/typescript-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_2_typescrip/thuc_hanh/typescript-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/bai_tap/.idea/.gitignore" beforeDir="false" />
@@ -31,8 +307,6 @@
       <change beforePath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_3_angular_overview/thuc_hanh/angular-overview/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap_hackernews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../bai_5_components_interaction/bai_tap_hackernews/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-form/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-form/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-form/src/app/todo/todo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-form/src/app/todo/todo.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../case_study/furama/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../case_study/furama/home_page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +330,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/angular-form/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,12 +355,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644729526968</updated>
-      <workItem from="1644729528274" duration="2637000" />
+      <workItem from="1644729528274" duration="3291000" />
+      <workItem from="1645017384024" duration="1730000" />
+      <workItem from="1645181618094" duration="296000" />
+      <workItem from="1645261432337" duration="663000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../bai_7_service_router/thuc_hanh/practice/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
