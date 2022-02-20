@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dictionary"
+    }
+  },
+  "defaultProject": "dictionary",
+  "cli": {
+    "analytics": false
+  }
 }
