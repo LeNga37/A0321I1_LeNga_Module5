@@ -1,0 +1,81 @@
+<div class="container">
+  <h3 class="text-center">Edit Customer</h3>
+  <div>
+    <form [formGroup]="formEdit" (ngSubmit)="onSubmit()">
+            <div class="form-group">
+              <label for="id">Id</label>
+              <input type="text" class="form-control" id="id" formControlName="id" readonly>
+<!--              <span *ngIf="formEdit.controls.id.touched-->
+<!--      &&formEdit.controls.cus_id.errors?.required" class="text-danger">Required Input</span>-->
+            </div>
+
+      <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" formControlName="name">
+        <span *ngIf="formEdit.controls.name.touched
+&&formEdit.controls.name.errors?.required" class="text-danger">Required Input</span>
+      </div>
+
+      <div class="form-group">
+        <label for="birthday">Birthday</label>
+        <input type="date" class="form-control" id="birthday" formControlName="birthday">
+        <span *ngIf="formEdit.controls.birthday.touched
+&&formEdit.controls.birthday.errors?.required" class="text-danger">Required Input</span>
+      </div>
+
+      <div class="form-group">
+        <label for="gender">Gender</label>
+        <select class="custom-select custom-select-sm" id="gender" formControlName="gender">
+          <!--          <option selected>Gender</option>-->
+          <option  [selected] = "formEdit.value.gender=='Male'">Male</option>
+          <option  [selected] = "formEdit.value.gender=='Female'">Female</option>
+        </select>
+        <span *ngIf="formEdit.controls.gender.touched
+&&formEdit.controls.gender.errors?.required" class="text-danger">Required Input</span>
+      </div>
+      <div class="form-group">
+        <label for="idCard">Id card</label>
+        <input type="text" class="form-control" id="idCard" formControlName="card">
+        <span *ngIf="formEdit.controls.card.touched
+&&formEdit.controls.card.errors?.required" class="text-danger">Required Input</span>
+      </div>
+
+      <div class="form-group">
+        <label for="phone">Phone</label>
+        <input type="text" class="form-control" id="phone" formControlName="phone">
+        <span *ngIf="formEdit.controls.phone.touched
+&&formEdit.controls.phone.errors?.required" class="text-danger">Required Input</span>
+        <span *ngIf="formEdit.controls.phone.touched
+&&formEdit.controls.phone.errors?.pattern" class="text-danger">Nhập sdt đúng định dạng</span>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" class="form-control" id="email" formControlName="email">
+        <span *ngIf="formEdit.controls.email.touched
+&&formEdit.controls.email.errors?.required" class="text-danger">Required Input</span>
+        <span *ngIf="formEdit.controls.email.touched
+&&formEdit.controls.email.errors?.email" class="text-danger">Không đúng định dạng email</span>
+      </div>
+
+      <div class="form-group">
+        <label for="customerTypeId">Customer type</label>
+        <select [compareWith]="compareFn" class="form-control " id="customerTypeId" formControlName="cus_type">
+          <ng-container *ngFor="let customerType of customerTypes">
+            <option [ngValue]="customerType">{{customerType.name}}</option>
+          </ng-container>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="address">Address</label>
+        <input type="text" class="form-control" id="address" formControlName="address">
+        <span *ngIf="formEdit.controls.address.touched
+&&formEdit.controls.address.errors?.required" class="text-danger">Required Input</span>
+      </div>
+
+      <button type="submit" [disabled]="formEdit.invalid" class="btn btn-success mr-3">Submit</button>
+      <a href="/customer-list" class="btn btn-success">Back to list</a>
+    </form>
+  </div>
+</div>

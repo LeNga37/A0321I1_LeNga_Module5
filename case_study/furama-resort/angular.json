@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "furama-resort"
+    }
+  },
+  "defaultProject": "furama-resort",
+  "cli": {
+    "analytics": false
+  }
 }

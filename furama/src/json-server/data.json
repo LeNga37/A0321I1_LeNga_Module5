@@ -1,0 +1,134 @@
+{
+  "customerTypes": [
+    {
+      "id": 1,
+      "name": "Diamond"
+    },
+    {
+      "id": 2,
+      "name": "Platinum"
+    },
+    {
+      "id": 3,
+      "name": "Gold"
+    },
+    {
+      "id": 4,
+      "name": "Silver"
+    },
+    {
+      "id": 5,
+      "name": "Member"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Trần Văn A",
+      "birthday": "1990-10-16",
+      "gender": "Nam",
+      "card": "987654245",
+      "phone": "0911234567",
+      "email": "a@gmail.com",
+      "cus_type": {
+        "id": 2,
+        "name": "Platinum"
+      },
+      "address": "Đà Nẵng"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Văn B",
+      "birthday": "2002-09-26",
+      "gender": "Nữ",
+      "card": "186546788",
+      "phone": "0910987252",
+      "email": "b@gmail.com",
+      "cus_type": {
+        "id": 1,
+        "name": "Diamond"
+      },
+      "address": "Quảng Trị"
+    },
+    {
+      "id": "3",
+      "name": "Bùi Văn C",
+      "birthday": "1992-09-14",
+      "gender": "Nam",
+      "card": "123455621",
+      "phone": "0969359999",
+      "email": "c2001@gmail.com",
+      "cus_type": {
+        "id": 1,
+        "name": "Diamond"
+      },
+      "address": "Quảng Nam"
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Bá D",
+      "birthday": "2003-01-17",
+      "gender": "Nữ",
+      "card": "187956786",
+      "phone": "0987531090",
+      "email": "d@gmail.com",
+      "cus_type": {
+        "id": 3,
+        "name": "Gold"
+      },
+      "address": "Đà Nẵng"
+    },
+    {
+      "id": 5,
+      "name": "Nguyễn Văn E",
+      "birthday": "2005-08-01",
+      "gender": "Nam",
+      "card": "222256785",
+      "phone": "0933335252",
+      "email": "e@gmail.com",
+      "cus_type": {
+        "id": 1,
+        "name": "Diamond"
+      },
+      "address": "Quảng Trị"
+    },
+    {
+      "id": 6,
+      "name": "Nguyễn Minh G",
+      "birthday": "1998-10-20",
+      "gender": "Nữ",
+      "card": "790756235",
+      "phone": "0915666652",
+      "email": "g@gmail.com",
+      "cus_type": {
+        "id": 1,
+        "name": "Diamond"
+      },
+      "address": "Hà Tĩnh"
+    },
+    {
+      "cus_id": "7",
+      "name": "Nga",
+      "birthday": "1992-06-08",
+      "gender": "1",
+      "card": "23456789087654",
+      "phone": "0912345673",
+      "email": "mike@gmail.com",
+      "cus_type": "3",
+      "address": "Đà Nẵng",
+      "id": 7
+    },
+    {
+      "cus_id": "",
+      "name": "Thanh",
+      "birthday": "1990-05-22",
+      "gender": "1",
+      "card": "987654322",
+      "phone": "0912376468",
+      "email": "mike1@gmail.com",
+      "cus_type": "3",
+      "address": "Đà Nẵng",
+      "id": 8
+    }
+  ]
+}
